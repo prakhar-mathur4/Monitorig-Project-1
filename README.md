@@ -1,3 +1,20 @@
+##Monitoring Website and server using Prometsus an Alert Manager
+
+
+Overview: Implemented a monitoring solution for websites and servers using Prometheus and Alertmanager, ensuring real-time observability, proactive incident detection, and automated alerting.
+
+Tech Stack:
+Website: Java(Springboot), HTML, CSS, JavaScript
+Monitoring Tools: Prometheus, Alertmanager
+Infrastructure: 
+AWS Cloud
+Linux EC2 Instance
+
+
+
+
+
+
 ---
 identifier: 0d8d76ed-6aa3-4d14-afbd-1cedb12fdc2b
 language: en
