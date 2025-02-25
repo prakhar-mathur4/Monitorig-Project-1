@@ -1,6 +1,6 @@
 
 # Monitoring Website and server using Prometsus an Alert Manager
-
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image1.png)
 Overview: Implemented a monitoring solution for websites and servers using Prometheus and Alertmanager, ensuring real-time observability, proactive incident detection, and automated alerting
 
 
