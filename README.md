@@ -1,6 +1,6 @@
 
 # Monitoring Website and server using Prometsus an Alert Manager
-![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image1.png)
+
 Overview: Implemented a monitoring solution for websites and servers using Prometheus and Alertmanager, ensuring real-time observability, proactive incident detection, and automated alerting
 
 
@@ -73,8 +73,17 @@ mv blackbox_exporter-0.25.0.linux-amd64/ blackbox_exporter
 ```
 
 
-
 ----            
 
 
 Now configure Prometheus, Alert Manager & Blackox exporter
+
+---
+
+## Project Glimpse
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image1.png)
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image2.png)
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image5.png)
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image6.png)
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image8.png)
+![alt text](https://github.com/prakhar-mathur4/Monitorig-Project-1/blob/main/image9.png)
